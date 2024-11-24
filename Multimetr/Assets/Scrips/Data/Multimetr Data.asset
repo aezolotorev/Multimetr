@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1821e036ef4220bf830dc70890fb4a, type: 3}
+  m_Name: Multimetr Data
+  m_EditorClassIdentifier: 
+  multimetrViewPrefab: {fileID: 1389713589354276250, guid: be4bb4cd5c66fc549a51b533de48a7e4, type: 3}
+  infoPrefab: {fileID: 1568652332899384878, guid: 60efd0e30bc2fa7468b80b08e268b552, type: 3}
